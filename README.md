@@ -43,7 +43,7 @@ omrane@dev:~$ cat ./about.md
 class OmraneSassi {
   name      = "Omrane Sassi";
   role      = "Full Stack Developer | L3 Student | IEEE member";
-  stack     = ["Angular", "React", "Node.js", "MongoDB", "Flutter"];
+  stack     = ["Angular", "React", "Node.js", "MongoDB", "Spring boot"];
   location  = "Manouba, Tunis, Tunisia";
   education = "Licence Informatique & Multimédia @ Université SESAME";
 
